@@ -4,7 +4,7 @@
     <groupId>com.schull</groupId>
     <artifactId>vprofile</artifactId>
     <packaging>war</packaging>
-    <version>v2</version>
+    <version>v1</version>
     <name>Schull VProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
